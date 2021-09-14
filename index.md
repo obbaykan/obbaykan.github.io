@@ -1,5 +1,3 @@
-# *Welcome*
-
 ## MSc in Big Data Analytics Progress Journals
 - [Data Analytics Essential(BDA503)](https://pjournal.github.io/mef04-baykano/)<br />
 This journal includes assignments and projects related to Data Analytics Essential(BDA503) based on the R programming language.
