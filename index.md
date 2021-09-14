@@ -11,5 +11,5 @@ RFM based customer segmentation project with UK based online retail company's sa
 [Customer Segmentation Project](MarketingAnalytics/Project_Marketing_Analytics.html)
 - [Capstone Project - DogGo Customer Segmentation](CapstoneProject_DogGoCustomerSegmentation/DogGoCustomerSegmentation.html)<br />
 RFM Based Customer Segmentation for a mobile application (DogGo- Start-up firm) a model created to cluster customers and an application created to monitor customers' behaviors to give in Doggo Marketing Team accurate and actionable recommendations.<br />
-If you would like to contribute my project, you can open up the ipynb clicking [here!](CapstoneProject_DogGoCustomerSegmentation/DogGoCustomerSegmentation.ipynb)<br />
+If you would like to contribute to my project, you can download the ipynb by clicking [here!](CapstoneProject_DogGoCustomerSegmentation/DogGoCustomerSegmentation.ipynb)<br />
 If you would like to read my project, click [here!](CapstoneProject_DogGoCustomerSegmentation/BDA_Capstone_Project.pdf)
